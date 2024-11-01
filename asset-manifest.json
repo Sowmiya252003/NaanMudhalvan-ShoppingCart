@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NaanMudhalvan-ShoppingCart/static/css/main.fd060dc6.css",
+    "main.js": "/NaanMudhalvan-ShoppingCart/static/js/main.42e73817.js",
+    "static/js/453.b2482a81.chunk.js": "/NaanMudhalvan-ShoppingCart/static/js/453.b2482a81.chunk.js",
+    "index.html": "/NaanMudhalvan-ShoppingCart/index.html",
+    "main.fd060dc6.css.map": "/NaanMudhalvan-ShoppingCart/static/css/main.fd060dc6.css.map",
+    "main.42e73817.js.map": "/NaanMudhalvan-ShoppingCart/static/js/main.42e73817.js.map",
+    "453.b2482a81.chunk.js.map": "/NaanMudhalvan-ShoppingCart/static/js/453.b2482a81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd060dc6.css",
+    "static/js/main.42e73817.js"
+  ]
+}
